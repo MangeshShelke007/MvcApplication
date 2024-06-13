@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvc.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|solutionrelative:mvc.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvc.dataaccess\\migrations\\20240411072733_seedcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\migrations\\20240411072733_seedcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvc.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvc.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvc.models\\mvc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|solutionrelative:mvc.models\\mvc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5064F677-F9D3-4A2A-8601-DA6DDA181040}|Mvc.Utility\\Mvc.Utility.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvc.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5064F677-F9D3-4A2A-8601-DA6DDA181040}|Mvc.Utility\\Mvc.Utility.csproj|solutionrelative:mvc.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvcapplicationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|c:\\users\\2156053\\onedrive - cognizant\\desktop\\project\\mvcapplication\\mvc.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|solutionrelative:mvc.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T06:58:31.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T05:10:02.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Models\\Category.cs",
+              "RelativeDocumentMoniker": "Mvc.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Models\\Category.cs",
+              "RelativeToolTip": "Mvc.Models\\Category.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:08:35.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T06:28:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcApplicationWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:23:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T06:28:54.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:45:19.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:45:17.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T05:38:04.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:29:33.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T06:48:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MvcApplicationWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:18:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240411072733_seedCategory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.DataAccess\\Migrations\\20240411072733_seedCategory.Designer.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Migrations\\20240411072733_seedCategory.Designer.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.DataAccess\\Migrations\\20240411072733_seedCategory.Designer.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Migrations\\20240411072733_seedCategory.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:16:15.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Program.cs",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Program.cs",
+              "RelativeToolTip": "MvcApplicationWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:32:51.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Mvc.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Mvc.Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:14:26.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:57:45.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:37:05.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Mvc.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Models\\Mvc.Model.csproj",
+              "RelativeDocumentMoniker": "Mvc.Models\\Mvc.Model.csproj",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Models\\Mvc.Model.csproj",
+              "RelativeToolTip": "Mvc.Models\\Mvc.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T17:10:05.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Mvc.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\Mvc.Utility\\SD.cs",
+              "RelativeToolTip": "Mvc.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:26:23.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcApplicationWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAMkBAAAAAAAAAAAAwBsCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-11T13:56:01.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "MvcApplicationWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-11T13:50:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T06:44:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\appsettings.json",
+              "RelativeToolTip": "MvcApplicationWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T05:20:37.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

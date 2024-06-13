@@ -1,0 +1,14 @@
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\bin\Debug\net8.0\Mvc.Model.deps.json
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\bin\Debug\net8.0\Mvc.Model.runtimeconfig.json
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\bin\Debug\net8.0\Mvc.Model.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\bin\Debug\net8.0\Mvc.Model.pdb
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.csproj.AssemblyReference.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.AssemblyInfoInputs.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.AssemblyInfo.cs
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.csproj.CoreCompileInputs.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\refint\Mvc.Model.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.pdb
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Model.genruntimeconfig.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\ref\Mvc.Model.dll

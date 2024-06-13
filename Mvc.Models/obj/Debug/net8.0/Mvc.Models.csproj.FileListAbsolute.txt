@@ -1,0 +1,5 @@
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Models.csproj.AssemblyReference.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Models.AssemblyInfoInputs.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Models.AssemblyInfo.cs
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.Models\obj\Debug\net8.0\Mvc.Models.csproj.CoreCompileInputs.cache

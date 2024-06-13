@@ -1,0 +1,17 @@
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\bin\Debug\net8.0\Mvc.DataAccess.deps.json
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\bin\Debug\net8.0\Mvc.DataAccess.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\bin\Debug\net8.0\Mvc.DataAccess.pdb
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.AssemblyInfoInputs.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.AssemblyInfo.cs
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\refint\Mvc.DataAccess.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.pdb
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\ref\Mvc.DataAccess.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.csproj.AssemblyReference.cache
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\bin\Debug\net8.0\Mvc.DataAccess.runtimeconfig.json
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\bin\Debug\net8.0\Mvc.Model.dll
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\bin\Debug\net8.0\Mvc.Model.pdb
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.Data.B1B20B6D.Up2Date
+C:\Users\2156053\OneDrive - Cognizant\Desktop\Project\MvcApplication\Mvc.DataAccess\obj\Debug\net8.0\Mvc.DataAccess.genruntimeconfig.cache
