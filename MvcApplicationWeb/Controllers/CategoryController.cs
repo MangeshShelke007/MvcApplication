@@ -4,6 +4,8 @@ using Mvc.Model;
 
 namespace MvcApplicationWeb.Controllers
 {
+
+    
     public class CategoryController : Controller
     {
         private readonly ApplicationDbContext _dbcontext;
