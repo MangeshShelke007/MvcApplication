@@ -4,6 +4,11 @@ using Mvc.Model;
 
 namespace MvcApplicationWeb.Controllers
 {
+    //23k23k2p32qjoiwqejowajeowarjiwarjiowandkjwandjkawnjodwanjd
+    //oiwqejoiwqejoiwqjeoiwqjeoqwjo
+    //new changes
+    //13.08
+    
     public class CategoryController : Controller
     {
         private readonly ApplicationDbContext _dbcontext;
