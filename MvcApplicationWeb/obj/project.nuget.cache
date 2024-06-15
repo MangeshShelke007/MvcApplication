@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kxGHCS15G9ZBh5HZv6tp+Okf/WhEoihmFlNq1oySiyqxjAF/VMltKCrZPEyfVLpwLn4SxVVVbuk+teNu3BxXKQ==",
+  "dgSpecHash": "ATj9gTtW+mc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\2156053\\OneDrive - Cognizant\\Desktop\\Project\\MvcApplication\\MvcApplicationWeb\\MvcApplicationWeb.csproj",
+  "projectFilePath": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\MvcApplicationWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2156053\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\2156053\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
