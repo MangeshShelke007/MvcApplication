@@ -7887,11 +7887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\MvcApplicationWeb.csproj",
+      "projectUniqueName": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\MvcApplicationWeb.csproj",
       "projectName": "MvcApplicationWeb",
-      "projectPath": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\MvcApplicationWeb.csproj",
+      "projectPath": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\MvcApplicationWeb.csproj",
       "packagesPath": "C:\\Users\\2156053\\.nuget\\packages\\",
-      "outputPath": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\obj\\",
+      "outputPath": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2156053\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7909,11 +7909,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Mvc.DataAccess.csproj": {
-              "projectPath": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Mvc.DataAccess.csproj"
+            "C:\\MVC\\MvcAppliacation\\Mvc.DataAccess\\Mvc.DataAccess.csproj": {
+              "projectPath": "C:\\MVC\\MvcAppliacation\\Mvc.DataAccess\\Mvc.DataAccess.csproj"
             },
-            "C:\\NewK\\MvcApplication\\Mvc.Models\\Mvc.Model.csproj": {
-              "projectPath": "C:\\NewK\\MvcApplication\\Mvc.Models\\Mvc.Model.csproj"
+            "C:\\MVC\\MvcAppliacation\\Mvc.Models\\Mvc.Model.csproj": {
+              "projectPath": "C:\\MVC\\MvcAppliacation\\Mvc.Models\\Mvc.Model.csproj"
             }
           }
         }
@@ -7977,7 +7977,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

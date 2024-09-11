@@ -3,52 +3,100 @@
   "WorkspaceRootPath": "C:\\NewK\\MvcApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\respository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\respository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\respository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\respository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\respository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\respository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\respository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\respository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\respository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\respository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|c:\\newk\\mvcapplication\\mvc.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|solutionrelative:mvc.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|c:\\newk\\mvcapplication\\mvc.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|solutionrelative:mvc.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\respository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\respository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\migrations\\20240411072733_seedcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,18 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|c:\\newk\\mvcapplication\\mvc.models\\mvc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|solutionrelative:mvc.models\\mvc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5064F677-F9D3-4A2A-8601-DA6DDA181040}|Mvc.Utility\\Mvc.Utility.csproj|c:\\newk\\mvcapplication\\mvc.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,12 +123,12 @@
       "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|c:\\newk\\mvcapplication\\mvcapplicationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A0E688B-AA94-4788-A022-D52089C624F6}|MvcApplicationWeb\\MvcApplicationWeb.csproj|solutionrelative:mvcapplicationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|c:\\newk\\mvcapplication\\mvc.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA2E43C3-E884-4DE7-B394-83C65AAE165F}|Mvc.Models\\Mvc.Model.csproj|solutionrelative:mvc.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|c:\\newk\\mvcapplication\\mvc.dataaccess\\migrations\\20240625054922_addproductstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE2EFF-4B43-42BB-9328-7A03C3F62F63}|Mvc.DataAccess\\Mvc.DataAccess.csproj|solutionrelative:mvc.dataaccess\\migrations\\20240625054922_addproductstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,7 +137,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 298,
           "SelectedChildIndex": 7,
           "Children": [
             {
@@ -109,153 +145,328 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e0346da-2890-3f73-9fff-43373da262d0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\Repository.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Respository\\Repository.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\Repository.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Respository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:59:07.292Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.Models\\Category.cs",
-              "RelativeDocumentMoniker": "Mvc.Models\\Category.cs",
-              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.Models\\Category.cs",
-              "RelativeToolTip": "Mvc.Models\\Category.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAAWAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:08:35.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T06:28:40.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MvcApplicationWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:23:01.613Z"
+              "WhenOpened": "2024-06-26T07:00:08.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T06:28:54.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T09:45:19.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-16T09:45:17.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MvcApplicationWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwEMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T06:18:49.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T12:25:09.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T12:02:16.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T09:15:41.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T12:22:23.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T12:22:29.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Respository\\ProductRepository.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\ProductRepository.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Respository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:33:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Respository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Respository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:33:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Respository\\UnitOfWork.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\UnitOfWork.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Respository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:34:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Respository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Respository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:33:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Program.cs",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Program.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Program.cs",
+              "RelativeToolTip": "MvcApplicationWeb\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:32:51.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\appsettings.json",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\appsettings.json",
+              "RelativeToolTip": "MvcApplicationWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T05:20:37.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:57:45.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.Models\\Category.cs",
+              "RelativeDocumentMoniker": "Mvc.Models\\Category.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.Models\\Category.cs",
+              "RelativeToolTip": "Mvc.Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:08:35.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Respository\\CategoryRepository.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Respository\\CategoryRepository.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Respository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:39:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Mvc.Models\\Product.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.Models\\Product.cs",
+              "RelativeToolTip": "Mvc.Models\\Product.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:14:39.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T08:59:48.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T05:38:04.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T12:22:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T12:22:41.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240625054922_addProductsToDb.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Migrations\\20240625054922_addProductsToDb.cs",
+              "RelativeDocumentMoniker": "Mvc.DataAccess\\Migrations\\20240625054922_addProductsToDb.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Migrations\\20240625054922_addProductsToDb.cs",
+              "RelativeToolTip": "Mvc.DataAccess\\Migrations\\20240625054922_addProductsToDb.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:49:22.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Delete.cshtml",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-10T05:10:02.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T06:58:31.864Z"
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcApplicationWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcApplicationWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:01:22.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T05:38:04.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T06:29:33.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MvcApplicationWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T06:48:07.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "20240411072733_seedCategory.Designer.cs",
               "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Migrations\\20240411072733_seedCategory.Designer.cs",
               "RelativeDocumentMoniker": "Mvc.DataAccess\\Migrations\\20240411072733_seedCategory.Designer.cs",
@@ -267,19 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Program.cs",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\Program.cs",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Program.cs",
-              "RelativeToolTip": "MvcApplicationWeb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T05:32:51.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Mvc.Models\\ErrorViewModel.cs",
@@ -291,19 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Mvc.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:57:45.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Mvc.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -315,19 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Mvc.Model.csproj",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.Models\\Mvc.Model.csproj",
-              "RelativeDocumentMoniker": "Mvc.Models\\Mvc.Model.csproj",
-              "ToolTip": "C:\\NewK\\MvcApplication\\Mvc.Models\\Mvc.Model.csproj",
-              "RelativeToolTip": "Mvc.Models\\Mvc.Model.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T17:10:05.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\NewK\\MvcApplication\\Mvc.Utility\\SD.cs",
               "RelativeDocumentMoniker": "Mvc.Utility\\SD.cs",
@@ -339,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "site.css",
               "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MvcApplicationWeb\\wwwroot\\css\\site.css",
@@ -351,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "MvcApplicationWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -363,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "MvcApplicationWeb\\Views\\Shared\\_Notification.cshtml",
@@ -372,18 +547,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-10T06:44:52.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "MvcApplicationWeb\\appsettings.json",
-              "ToolTip": "C:\\NewK\\MvcApplication\\MvcApplicationWeb\\appsettings.json",
-              "RelativeToolTip": "MvcApplicationWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-08T05:20:37.904Z"
             }
           ]
         }

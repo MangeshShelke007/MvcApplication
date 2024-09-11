@@ -2193,11 +2193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NewK\\MvcApplication\\Mvc.Utility\\Mvc.Utility.csproj",
+      "projectUniqueName": "C:\\MVC\\MvcAppliacation\\Mvc.Utility\\Mvc.Utility.csproj",
       "projectName": "Mvc.Utility",
-      "projectPath": "C:\\NewK\\MvcApplication\\Mvc.Utility\\Mvc.Utility.csproj",
+      "projectPath": "C:\\MVC\\MvcAppliacation\\Mvc.Utility\\Mvc.Utility.csproj",
       "packagesPath": "C:\\Users\\2156053\\.nuget\\packages\\",
-      "outputPath": "C:\\NewK\\MvcApplication\\Mvc.Utility\\obj\\",
+      "outputPath": "C:\\MVC\\MvcAppliacation\\Mvc.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2156053\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2255,7 +2255,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
