@@ -85,7 +85,6 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        [ActionName("Delete")]
         public IActionResult DeletePOST(int? id)
         {
             Category? obj = _unitOfWork.category.Get(u => u.Id == id);

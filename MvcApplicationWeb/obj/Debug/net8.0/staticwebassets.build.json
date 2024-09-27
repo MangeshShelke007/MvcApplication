@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ftFmgpIQaBSPXgMehjLvW2Cn2BkvYDqTd/1lCWdwiQc=",
+  "Hash": "eP9yrDwWCkJZYgpvH5bYy8DH/M+/9cG9qeoL3GN+X/4=",
   "Source": "MvcApplicationWeb",
   "BasePath": "_content/MvcApplicationWeb",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\wwwroot\\images\\product\\16e1b942-e2ff-4e6c-8aae-a35c1f6e6d1f.png",
+      "SourceId": "MvcApplicationWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\wwwroot\\",
+      "BasePath": "_content/MvcApplicationWeb",
+      "RelativePath": "images/product/16e1b942-e2ff-4e6c-8aae-a35c1f6e6d1f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\16e1b942-e2ff-4e6c-8aae-a35c1f6e6d1f.png"
     },
     {
       "Identity": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\wwwroot\\js\\site.js",

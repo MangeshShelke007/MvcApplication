@@ -2757,7 +2757,10 @@
         },
         "runtime": {
           "bin/placeholder/Mvc.Model.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\wwwroot\\images\\product\\16e1b942-e2ff-4e6c-8aae-a35c1f6e6d1f.png",
+      "PackagePath": "staticwebassets\\images\\product\\16e1b942-e2ff-4e6c-8aae-a35c1f6e6d1f.png"
+    },
+    {
       "Id": "C:\\MVC\\MvcAppliacation\\MvcApplicationWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
