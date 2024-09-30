@@ -21,7 +21,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            List<Product> productList = _un.product.GetAll().ToList();
+            List<Product> productList = _un.product.GetAll(includeProperties:"Category").ToList();
 
             
             return View(productList);
@@ -32,22 +32,22 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             ProductVM productvm = new ProductVM()
             {
 
-                CategoryList= _un.category
-                .GetAll().Select(u=> new SelectListItem
+                CategoryList= _un.product
+                .GetAll(includeProperties:"Category").Select(u => new SelectListItem
                 {
-                    Text = u.Name,
-                    Value = u.Id.ToString()
+                    Text = u.Category.Name,
+                    Value = u.Category.Id.ToString()
                 }),
                 product =new Product()
             };
-           
-            if(id==null || id==0)
+
+            if (id==null || id==0)
             {
                 return View(productvm);
             }
             else
             {
-                productvm.product= _un.product.Get(u=>u.Id==id);
+                productvm.product= _un.product.Get(u=>u.Id==id,includeProperties:"Category  ");
                 return View(productvm);
             }
        
@@ -66,6 +66,10 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
                     if(!string.IsNullOrWhiteSpace(productvm.product.imageUrl))
                     {
                         var oldImagePath = Path.Combine(wwwRootPath,productvm.product.imageUrl.TrimStart('\\'));
+                        if(System.IO.File.Exists(oldImagePath))
+                        {
+                            System.IO.File.Delete(oldImagePath);
+                        }
                     }
 
                     using(var fileStream = new FileStream(Path.Combine(productPath,fileName),FileMode.Create))
@@ -76,8 +80,14 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
                 }
 
 
-
+                if(productvm.product.Id==0)
+                {
                 _un.product.Add(productvm.product);
+
+                }
+                else{
+                    _un.product.Update(productvm.product);
+                }
                 _un.Save();
                 TempData["Success"]="Product Created SuccessFully";
                 return RedirectToAction("Index");
@@ -85,7 +95,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             else
             {
 
-                productvm.CategoryList= _un.category.GetAll()
+                productvm.CategoryList= _un.category.GetAll(includeProperties:"Category")
                     .Select(u=>new SelectListItem
                     {
                         Text= u.Name,
@@ -102,7 +112,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            Product product = _un.product.Get(u => u.Id==id);
+            Product product = _un.product.Get(u => u.Id==id,includeProperties:"Category");
             if(product == null)
             {
                 return NotFound();
@@ -131,7 +141,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-           Product product=_un.product.Get(u=>u.Id==id);
+           Product product=_un.product.Get(u=>u.Id==id,includeProperties:"Category");
             if( product==null)
             {
                 return NotFound();
@@ -149,7 +159,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-           Product product= _un.product.Get(u=>u.Id==id);
+           Product product= _un.product.Get(u=>u.Id==id,includeProperties:"Category");
            if(product==null)
            {
             return NotFound();
@@ -162,7 +172,18 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
         }
 
 
+    #region API CALLS
+
+    [HttpGet]
+    public IActionResult GetAll()
+    {
+        List<Product> productList = _un.product.GetAll(includeProperties:"Category").ToList();
+        return Json(new{ data = productList});
     }
+
+    #endregion
+    }
+
 
     
 }

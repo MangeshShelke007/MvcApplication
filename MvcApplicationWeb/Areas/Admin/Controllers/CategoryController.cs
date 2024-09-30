@@ -16,7 +16,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            List<Category> categorylist = _unitOfWork.category.GetAll().ToList();
+            List<Category> categorylist = _unitOfWork.category.GetAll(includeProperties:"Category").ToList();
             return View(categorylist);
         }
         public IActionResult Create()
@@ -47,7 +47,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            Category? selectedCategory = _unitOfWork.category.Get(u => u.Id == id); ;
+            Category? selectedCategory = _unitOfWork.category.Get(u => u.Id == id,includeProperties:"Categories"); ;
             if (selectedCategory == null)
             {
                 return NotFound();
@@ -74,7 +74,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            Category? category = _unitOfWork.category.Get(u => u.Id == id);
+            Category? category = _unitOfWork.category.Get(u => u.Id == id,includeProperties:"Category");
 
             if (category == null)
             {
@@ -87,7 +87,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult DeletePOST(int? id)
         {
-            Category? obj = _unitOfWork.category.Get(u => u.Id == id);
+            Category? obj = _unitOfWork.category.Get(u => u.Id == id,includeProperties:"Category");
             if (obj == null)
             {
                 return NotFound();
