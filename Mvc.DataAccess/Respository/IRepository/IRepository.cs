@@ -10,7 +10,7 @@ namespace Mvc.DataAccess.Respository.IRepository
     public interface IRepository<T> where T: class
     {
         //T-Category
-        IEnumerable<T> GetAll(string? includeProperties);
+        IEnumerable<T> GetAll(string? includePoperties);
         T Get(Expression<Func<T, bool>> filter,string? includeProperties);
         void Add(T entity);
         void Remove(T entity);

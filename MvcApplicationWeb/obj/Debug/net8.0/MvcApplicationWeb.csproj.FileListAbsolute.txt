@@ -751,7 +751,6 @@ C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.cspr
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.RazorAssemblyInfo.cache
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.RazorAssemblyInfo.cs
-C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.sourcelink.json
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\staticwebassets.build.json
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\staticwebassets.development.json
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\staticwebassets\msbuild.MvcApplicationWeb.Microsoft.AspNetCore.StaticWebAssets.props
@@ -769,3 +768,13 @@ C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.pdb
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.genruntimeconfig.cache
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\ref\MvcApplicationWeb.dll
 C:\MVC\MvcAppliacation\MvcApplicationWeb\obj\Debug\net8.0\MvcApplicationWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Mvc.Utility.dll
+C:\MVC\MvcAppliacation\MvcApplicationWeb\bin\Debug\net8.0\Mvc.Utility.pdb

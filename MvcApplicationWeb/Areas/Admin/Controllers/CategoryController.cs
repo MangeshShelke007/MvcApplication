@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Mvc.DataAccess.Data;
 using Mvc.DataAccess.Respository;
 using Mvc.DataAccess.Respository.IRepository;
 using Mvc.Model;
+using Mvc.Utility;
 
 namespace MvcApplicationWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles =SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -16,7 +19,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            List<Category> categorylist = _unitOfWork.category.GetAll(includeProperties:"Category").ToList();
+            List<Category> categorylist = _unitOfWork.category.GetAll(includePoperties:"Category").ToList();
             return View(categorylist);
         }
         public IActionResult Create()

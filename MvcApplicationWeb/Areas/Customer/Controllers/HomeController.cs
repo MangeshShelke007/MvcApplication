@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Razor.TagHelpers;
+using Mvc.DataAccess.Respository.IRepository;
 using Mvc.Model;
 using System.Diagnostics;
 // 
@@ -9,14 +11,23 @@ namespace MvcApplicationWeb.Areas.Customer.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IUnitOfWork _un;
+
+        public HomeController(ILogger<HomeController> logger,IUnitOfWork un)
         {
             _logger = logger;
+            _un=un;
         }
 
         public IActionResult Index()
         {
-            return View();
+            IEnumerable<Product> products = _un.product.GetAll(includePoperties:"Category");
+            return View(products);
+        }
+        public IActionResult Detail(int id)
+        {
+            Product product = _un.product.Get(u=>u.Id==id,includeProperties:"Category");
+            return View(product);
         }
 
         public IActionResult Privacy()

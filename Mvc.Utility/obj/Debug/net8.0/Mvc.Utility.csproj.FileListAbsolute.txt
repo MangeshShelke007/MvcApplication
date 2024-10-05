@@ -39,3 +39,4 @@ C:\MVC\MvcAppliacation\Mvc.Utility\obj\Debug\net8.0\refint\Mvc.Utility.dll
 C:\MVC\MvcAppliacation\Mvc.Utility\obj\Debug\net8.0\Mvc.Utility.pdb
 C:\MVC\MvcAppliacation\Mvc.Utility\obj\Debug\net8.0\Mvc.Utility.genruntimeconfig.cache
 C:\MVC\MvcAppliacation\Mvc.Utility\obj\Debug\net8.0\ref\Mvc.Utility.dll
+C:\MVC\MvcAppliacation\Mvc.Utility\obj\Debug\net8.0\Mvc.Utility.csproj.AssemblyReference.cache

@@ -1,14 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Mvc.DataAccess.Respository.IRepository;
 using Mvc.Model;
 using Mvc.Model.ViewModels;
+using Mvc.Utility;
 using System.Collections.Immutable;
 
 namespace MvcApplicationWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _un;
@@ -21,7 +24,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            List<Product> productList = _un.product.GetAll(includeProperties:"Category").ToList();
+            List<Product> productList = _un.product.GetAll(includePoperties:"Category").ToList();
 
             
             return View(productList);
@@ -32,11 +35,11 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             ProductVM productvm = new ProductVM()
             {
 
-                CategoryList= _un.product
-                .GetAll(includeProperties:"Category").Select(u => new SelectListItem
+                CategoryList= _un.category
+                .GetAll(includePoperties:null).Select(u => new SelectListItem
                 {
-                    Text = u.Category.Name,
-                    Value = u.Category.Id.ToString()
+                    Text = u.Name,
+                    Value = u.Id.ToString()
                 }),
                 product =new Product()
             };
@@ -47,7 +50,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             }
             else
             {
-                productvm.product= _un.product.Get(u=>u.Id==id,includeProperties:"Category  ");
+                productvm.product= _un.product.Get(u=>u.Id==id,includeProperties:"Category");
                 return View(productvm);
             }
        
@@ -95,7 +98,7 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
             else
             {
 
-                productvm.CategoryList= _un.category.GetAll(includeProperties:"Category")
+                productvm.CategoryList= _un.category.GetAll(includePoperties:"Category")
                     .Select(u=>new SelectListItem
                     {
                         Text= u.Name,
@@ -135,41 +138,10 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
            
         }
 
-        public IActionResult Delete(int? id)
-        {
-            if(id==null||id==0)
-            {
-                return NotFound();
-            }
-           Product product=_un.product.Get(u=>u.Id==id,includeProperties:"Category");
-            if( product==null)
-            {
-                return NotFound();
-            }
-
-            return View(product);
-        }
+      
 
 
-        [HttpPost]
-        [ActionName("Delete")]
-        public IActionResult DeleteItem(int? id)
-        {
-            if(id==null|| id==0)
-            {
-                return NotFound();
-            }
-           Product product= _un.product.Get(u=>u.Id==id,includeProperties:"Category");
-           if(product==null)
-           {
-            return NotFound();
-           }
-           _un.product.Remove(product);
-           _un.Save();
-           TempData["success"]="Product deleted successfully";
-           return RedirectToAction("Index");
-
-        }
+     
 
 
     #region API CALLS
@@ -177,8 +149,26 @@ namespace MvcApplicationWeb.Areas.Admin.Controllers
     [HttpGet]
     public IActionResult GetAll()
     {
-        List<Product> productList = _un.product.GetAll(includeProperties:"Category").ToList();
+        List<Product> productList = _un.product.GetAll(includePoperties:"Category").ToList();
         return Json(new{ data = productList});
+    }
+
+    [HttpDelete]
+    public IActionResult Delete(int? id)
+    {
+        var selectedProduct = _un.product.Get(u=>u.Id==id,includeProperties:"Category");
+        if(selectedProduct==null)
+        {
+            return Json(new {success=false, message="error while deleting"});
+        }
+        var oldImagePath =Path.Combine(_webHostEnvironment.WebRootPath,selectedProduct.imageUrl.TrimStart('\\'));
+        if(System.IO.File.Exists(oldImagePath))
+        {
+            System.IO.File.Delete(oldImagePath);
+        }
+        _un.product.Remove(selectedProduct);
+        _un.Save();
+        return Json(new {sucess=true,message="deleted successfully"});
     }
 
     #endregion
